@@ -1,2 +1,3 @@
 name: Ashwin Ganesh, Striving to perfection
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
